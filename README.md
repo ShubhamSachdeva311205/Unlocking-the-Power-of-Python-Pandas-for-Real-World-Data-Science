@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Codebeautify.org Text to HTML Converter</title>
 	</head>
 	<body>
 		<p>Python Pandas, a powerful open-source data analysis and manipulation library, is essential for data scientists and analysts. This course, "Unlocking the Power of Python Pandas for Real-World Data Science," focuses on using Pandas to analyze sales data for electronic products. 
